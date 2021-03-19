@@ -1,5 +1,5 @@
 django==2.2.11
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 django-cors-headers==3.2.1
 python-decouple==3.3
 google-auth==1.11.3
